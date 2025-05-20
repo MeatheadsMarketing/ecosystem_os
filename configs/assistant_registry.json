@@ -1,0 +1,14 @@
+{
+    "id": "ecosystem_os_v2_final",
+    "label": "Ecosystem OS \u2014 Final Clean Build",
+    "version": "v2.0",
+    "source_zip": "ecosystem_os_final_clean.zip",
+    "entrypoint": "frontend/streamlit_app/streamlit_main.py",
+    "tabs": [
+        "zip_ingestor",
+        "autodeploy_manager",
+        "assistant_registry"
+    ],
+    "injected_by": "ecosystem_zip_ingestor",
+    "status": "registered"
+}

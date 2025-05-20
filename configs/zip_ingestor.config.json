@@ -1,0 +1,8 @@
+{
+    "exclude_extensions": [
+        ".md",
+        ".txt"
+    ],
+    "max_file_size_mb": 5,
+    "conflict_resolution": "rename_with_hash"
+}
